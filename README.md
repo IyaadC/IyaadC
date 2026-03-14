@@ -1,5 +1,6 @@
 ## Welcome to my GitHub Profile! 👋
 
+I'm Iyaad Cassim (He/Him) - I'm a recent graduate of the University of Melbourne ('25) ,fullstack developer, startup enthusiast and lifelong student. I'm interested in z
 
 <!--
 **IyaadC/IyaadC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Tech Stack

@@ -2,11 +2,12 @@
 
 ### [My Website](https://iyaadc.github.io/Personal-Website/)
 
-### <div align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/hOEF6IjP1lEsUWbL7h/giphy.gif" width="60"/> &nbsp; **[yourwebsite.com](https://yoursite.com)** &nbsp; <img src="https://media.giphy.com/media/zJGepFRhL2veR34U9i/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/hOEF6IjP1lEsUWbL7h/giphy.gif" width="60"/> **[yourwebsite.com](https://yoursite.com)** <img src="https://media.giphy.com/media/zJGepFRhL2veR34U9i/giphy.gif" width="60"/>
 
 </div>
+
 
 ## About me 🚀
 

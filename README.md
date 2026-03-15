@@ -1,15 +1,20 @@
 # Hey I'm Iyaad Cassim 👋
 
-### [My Website](https://iyaadc.github.io/Personal-Website/)
+## 🌐 Visit my Website!
 
-<div align="center">
+<!-- Added centered website link -->
+<p align="center">
+  <img src="https://media.giphy.com/media/zJGepFRhL2veR34U9i/giphy.gif" width="120" align="middle">
+  <a href="https://iyaadc.github.io/Personal-Website/" style="text-decoration: none;">
+    <span style="font-size: 50px; font-weight: bold; vertical-align: middle;">
+      &nbsp; Click here &nbsp;
+    </span>
+  </a>
+  <img src="https://media.giphy.com/media/hOEF6IjP1lEsUWbL7h/giphy.gif" width="120" align="middle">
+</p>
 
-<img src="https://media.giphy.com/media/hOEF6IjP1lEsUWbL7h/giphy.gif" width="60"/> **[yourwebsite.com](https://yoursite.com)** <img src="https://media.giphy.com/media/zJGepFRhL2veR34U9i/giphy.gif" width="60"/>
 
-</div>
-
-
-## About me 🚀
+## 🚀 About me 
 
 🎓 Recent **University of Melbourne** graduate ('25) — Bachelor of Science majoring in **Computing and Software Systems**.
 

@@ -1,16 +1,42 @@
-# Welcome to my GitHub Profile! 👋
+# Hey I'm Iyaad Cassim 👋
+
+[My Website](https://iyaadc.github.io/Personal-Website/)
 
 ## About me 🚀
 
-🎓 I'm **Iyaad Cassim (He/Him)** - I'm a recent graduate of the University of Melbourne ('25) - completing a Bachelor of Science (Majoring in Computing and Software Systems).
+🎓 Recent **University of Melbourne** graduate ('25) — Bachelor of Science majoring in **Computing and Software Systems**.
 
-💻 I am a fullstack developer, having experience in both designing and implementing a robust, functional backend for the University of Curtin in Perth (2024) and front-end with my own vision of an aesthetic old-school CRT terminal for my personal portfolio website. I love to take on new challenges, get hands on with novel technologies and see my code be brought to life!
+💻 I'm a **fullstack developer** with experience building a robust backend system for Curtin University (2024) and crafting a CRT terminal-themed personal portfolio from scratch. I'm drawn to **cutting-edge and emerging technologies**, as I want to be at the forefront of what's new in the world of CS/Technology. 
 
-🤵 I love to read books on self development (currently reading "Power of Now" by Eckhart Tolle), doing personal research to identify gaps in the market so I can produce efficient, highly useful software solutions. I believe myself to be a lifelong learner and I am currently educating myself in embedded devices and systems using microcontrollers and sensors (currently using ESP32 with the Arduino IDE)
+🤵 I'm a lifelong learner, currently diving into **embedded systems** with ESP32 and Arduino, and an avid reader of self-development books (currently working through **"The Power of Now"** by Eckhart Tolle).
 
-🧘‍♂️ Outside the world of tech, I love developing myself with new skills and emerse myself in hobbies such as mixing and making music, fishing, and exploring the cities I live in for underground (not so well known) establishments so I can say I have truly lived in my community.
+🧘‍♂️ Outside the world of tech, I enjoy music **production & mixing**, **fishing**, **video games** and hunting down **hidden local spots** (cafes, restaurants etc) to say I truly know the city I live in.
 
-🌏 My dream is to travel the world, build a strong portfolio of software products and contribute innovative solutions to shake up the industry I work in.
+🌏 My **goal** is to travel the world, build a **strong portfolio** of software products, and contribute something that genuinely disrupts the industry using my relentless curiosity and creativity.
+
+🔭 Currently working on a responsive LED display system that pulls live game data from the Riot Games API for League of Legends - to mesh my love for gaming and technology.
+
+📚 Currently learning low-level C++, IoT protocols (wifi), and circuitry fundamentals for embedded devices using the Arduino IDE.
+
+
+
+<!--
+## Tech Stack
+ [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,py,discord,docker,html,java,js,mysql,nodejs,postgres,postman,react,tailwind,figma,go)](https://skillicons.dev)
+
+ -->
+### 🔨 Tech Stack
+**Languages**
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js,go&perline=6)](https://skillicons.dev)
+
+**Frontend**
+[![Frontend](https://skillicons.dev/icons?i=html,react,tailwind,figma&perline=6)](https://skillicons.dev)
+
+**Backend & Databases**
+[![Backend](https://skillicons.dev/icons?i=nodejs,mysql,postgres&perline=6)](https://skillicons.dev)
+
+**Tools & Platforms**
+[![Tools](https://skillicons.dev/icons?i=docker,postman,arduino,discord&perline=6)](https://skillicons.dev)
 
 <!--
 **IyaadC/IyaadC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# Tech Stack
-

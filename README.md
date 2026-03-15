@@ -55,8 +55,8 @@
 `Node.js` `MySQL` `PostgreSQL`
 
 **Tools & Platforms**<br>
-[![Tools](https://skillicons.dev/icons?i=docker,postman,arduino,discord&perline=6)](https://skillicons.dev)<br>
-`Docker` `Postman` `Arduino` `Discord`
+[![Tools](https://skillicons.dev/icons?i=docker,postman,arduino,idea,vim,vscode,discord&perline=7)](https://skillicons.dev)<br>
+`Docker` `Postman` `Arduino` `IntelliJ IDEA` `Vim` `VS Code` `Discord`
 
 
 

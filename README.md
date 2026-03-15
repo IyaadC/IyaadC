@@ -1,4 +1,5 @@
-# Hey I'm Iyaad Cassim 👋
+# 
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1000&backgroundColor=%23765898&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Welcome+to+my+GitHub.%22%2C%22font%22%3A%22Bodoni+Moda%22%2C%22color%22%3A%22%2333e633%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22I%27m+Iyaad+Cassim.+%7C%CB%B6%CB%99%E1%B5%95%CB%99+%29%EF%BE%89%EF%BE%9E%22%2C%22font%22%3A%22Bodoni+Moda%22%2C%22color%22%3A%22%2333e633%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05002501250625313%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 ## 🌐 Visit my Website!
 

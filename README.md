@@ -17,28 +17,23 @@
 
 ## 🚀 About me 
 
-🎓 Recent **University of Melbourne** graduate ('25) — Bachelor of Science majoring in **Computing and Software Systems**.
+🎓 **University of Melbourne** - **Bachelor of Science (Computing & Software Systems)**, Class of 2025.
 
-💻 I'm a **fullstack developer** with experience building a robust **backend system** for Curtin University (2024) and crafting an old school CRT terminal-themed personal portfolio from scratch. I'm drawn to **cutting-edge and emerging technologies**, as I want to be at the forefront of what's new in the world of CS/Technology. 
+💻 **Fullstack developer** - with experience as a **project lead**, building and documenting a role-based **medical records system** (ECGs, urinalysis, multi-role auth) for **Curtin University** and a **CRT terminal-inspired portfolio**. Passionate about emerging technologies.
 
-🤵 I'm a **lifelong learner**, passionate about **startups**, and deeply curious about the world beyond CS. I love exploring **psychology, culture, society and how industries function** to build a richer understanding of the world I'm building software for, and to see where I can address **gaps in the market**. I'm also an avid reader of **self-development books** (currently working through **"The Power of Now"** by **Eckhart Tolle**).
+🤵 **Beyond code** - startup enthusiast, finding where software can fill real gaps in the market. 
 
-🧘‍♂️ Outside the world of tech, I enjoy music **production & mixing**, **fishing**, **video games** and hunting down **hidden local spots** (cafes, restaurants etc) to say I truly know the city I live in.
+🧘‍♂️ **Hobbies** - music production & mixing, gaming and finding local hidden gems.
 
-🌏 My **goal** is to **travel the world**, build a **strong portfolio** of **software products**, and contribute something that genuinely **disrupts the industry** using my relentless curiosity and creativity.
+🌏 **Goals** - build a portfolio of meaningful **software products**, and work at the forefront of technology.
 
-🔭 Currently working on a **responsive LED display system** that pulls live game data from the **Riot Games API** for League of Legends - to mesh my love for gaming and technology.
+<!-- Changed "Working" to "building" -->
+🔭 Currently building a **responsive LED display system** that pulls live game data from the **Riot Games API** - combining gaming and hardware.
 
-📚 Currently learning **low-level C++**, **IoT protocols (wifi)**, and **circuitry fundamentals** for embedded devices using the **Arduino IDE**.
+📚 Currently learning **low-level C++**, **IoT protocols/WiFi**, and **embedded development** using **Arduino IDE**.
 
-
-
-<!--
-## Tech Stack
- [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,py,discord,docker,html,java,js,mysql,nodejs,postgres,postman,react,tailwind,figma,go)](https://skillicons.dev)
-
- -->
-
+<!--I reaI'm a **lifelong learner**, passionate about **startups**, and deeply curious about the world beyond CS. I love exploring **psychology, culture, society and how industries function** to build a richer understanding of the world I'm building software for, and to see where I can address **gaps in the market**. I'm also an avid reader of **self-development books** (currently working through **"The Power of Now"** by **Eckhart Tolle**).
+-->
 
 ## 🔨 Tech Stack
 

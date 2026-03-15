@@ -5,13 +5,13 @@
 
 <!-- Added centered website link -->
 <p align="center">
-  <img src="https://media.giphy.com/media/zJGepFRhL2veR34U9i/giphy.gif" width="120" align="middle">
+  <img src="https://media.giphy.com/media/zJGepFRhL2veR34U9i/giphy.gif" width="100" align="middle">
   <a href="https://iyaadc.github.io/Personal-Website/" style="text-decoration: none;">
     <span style="font-size: 50px; font-weight: bold; vertical-align: middle;">
       &nbsp; Click here &nbsp;
     </span>
   </a>
-  <img src="https://media.giphy.com/media/hOEF6IjP1lEsUWbL7h/giphy.gif" width="120" align="middle">
+  <img src="https://media.giphy.com/media/hOEF6IjP1lEsUWbL7h/giphy.gif" width="100" align="middle">
 </p>
 
 
